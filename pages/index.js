@@ -14,7 +14,7 @@ const Index = () => (
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1 className="title">
-        Welcome to <a href="https://onlydogs.co">OnlyDogs!</a>
+        Welcome to <a href="https://onlydogs.vercel.app">OnlyDogs!</a>
       </h1>
 
       <hr className={styles.hr} />
