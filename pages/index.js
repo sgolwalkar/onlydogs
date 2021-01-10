@@ -19,7 +19,7 @@ const Index = () => (
 
       <hr className={styles.hr} />
       <p>
-        This is like OnlyFans but like dogs. Woof.
+        This is like OnlyFans but like dogs. Woof. Also, it's free.
       </p>
       <Image alt="dog 1" src="/dog1.jpg" width={1000} height={1000} />
       <Image src="/dog2.jpg" width={1000} height={1000} />
