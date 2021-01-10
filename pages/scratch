@@ -1,0 +1,38 @@
+<hr className={styles.hr} />
+
+<h2 id="layout">Layout</h2>
+<p>
+  The <Code>layout</Code> property tells the image to respond differently
+  depending on the device size or the container size.
+</p>
+<p>
+  Select a layout below and try resizing the window or rotating your
+  device to see how the image reacts.
+</p>
+<ul>
+  <li>
+    <Link href="/layout-intrinsic">
+      <a>layout="intrinsic"</a>
+    </Link>
+  </li>
+  <li>
+    <Link href="/layout-responsive">
+      <a>layout="responsive"</a>
+    </Link>
+  </li>
+  <li>
+    <Link href="/layout-fixed">
+      <a>layout="fixed"</a>
+    </Link>
+  </li>
+  <li>
+    <Link href="/layout-fill">
+      <a>layout="fill"</a>
+    </Link>
+  </li>
+  <li>
+    <Link href="/background">
+      <a>background demo</a>
+    </Link>
+  </li>
+</ul>
